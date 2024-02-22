@@ -1,0 +1,54 @@
+#Profile_bar{
+    display: block;
+    width: 96%;
+    margin: auto;
+    margin: top 20px; 
+   
+
+}
+.profile-icon{
+    display: inline-block;
+    padding: 10px;
+    vertical-align: middle;
+}
+
+.desc{
+    display: inline-block;
+    font-size: 10px;
+}
+#left-box{
+    
+    float: left;
+}
+.Name{
+    font-size: 22px;
+
+}
+.Des{
+    padding-top: 20 px;
+    font-size: 16px;
+    
+}
+
+#right-box
+{
+ 
+  float: right;
+  
+  
+}
+.contact{
+    border: 2px solid lightblue;
+    padding: 5px;
+    margin: 20px;
+    width: 250px;
+    vertical-align: middle;
+    text-align: center;
+    border-radius: 20px;
+
+}
+#switch-box{
+    display: block;
+    width: 70%;
+    
+}
